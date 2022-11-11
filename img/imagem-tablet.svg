@@ -1,0 +1,47 @@
+<svg width="454" height="424" viewBox="0 0 454 424" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="233.715" cy="212" r="210.334" stroke="#A7CEFC" stroke-width="2" stroke-dasharray="15 15"/>
+<circle cx="233.714" cy="212" r="122.731" stroke="#A7CEFC" stroke-width="2" stroke-dasharray="15 15"/>
+<circle cx="22.3805" cy="212.32" r="22.3803" fill="#FF5758"/>
+<circle cx="357.447" cy="212.32" r="22.3803" fill="#37A3FF"/>
+<circle cx="234.033" cy="335.731" r="22.3803" fill="#FFBF60"/>
+<circle cx="109.984" cy="212.32" r="22.3803" fill="#37A3FF"/>
+<circle cx="109.984" cy="386.246" r="22.3803" fill="#37A3FF"/>
+<circle cx="383.021" cy="68.4466" r="22.3803" fill="#37A3FF"/>
+<circle cx="431.62" cy="279.461" r="22.3803" fill="#00CA75"/>
+<mask id="mask0_1_522" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="409" y="257" width="45" height="45">
+<circle cx="431.62" cy="279.461" r="22.3803" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0_1_522)">
+</g>
+<circle cx="234.675" cy="88.2691" r="22.3803" fill="#00CA75"/>
+<mask id="mask1_1_522" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="212" y="65" width="46" height="46">
+<circle cx="234.675" cy="88.2691" r="22.3803" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask1_1_522)">
+</g>
+<circle cx="111.904" cy="37.7536" r="22.3803" fill="#FFDC4D"/>
+<g filter="url(#filter0_d_1_522)">
+<rect x="202.061" y="180.348" width="63.9436" height="63.9436" rx="10" fill="white"/>
+</g>
+<g clip-path="url(#clip0_1_522)">
+<path d="M217 201.787V207.841C217 209.685 219.303 210.669 220.71 209.378L227.427 203.323C228.899 202.002 227.939 199.666 225.924 199.666H219.207C217.992 199.666 217 200.619 217 201.787Z" fill="#5986EF"/>
+<path d="M248.794 199.666H242.077C240.094 199.666 239.102 202.002 240.573 203.324L247.29 209.378C248.698 210.638 251 209.685 251 207.841V201.787C251 200.619 250.009 199.666 248.794 199.666Z" fill="#5986EF"/>
+<path d="M235.52 214.449L247.29 225.082C248.697 226.342 251 225.39 251 223.546V217.43C251 216.846 250.744 216.293 250.297 215.893L235.52 202.525C234.656 201.756 233.345 201.756 232.481 202.525L217.704 215.893C217.256 216.293 217 216.846 217 217.43V223.546C217 225.39 219.303 226.373 220.711 225.082L232.481 214.449C233.345 213.681 234.656 213.681 235.52 214.449Z" fill="#5986EF"/>
+</g>
+<defs>
+<filter id="filter0_d_1_522" x="163.061" y="145.348" width="141.944" height="141.944" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="11" operator="erode" in="SourceAlpha" result="effect1_dropShadow_1_522"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="25"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_522"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_522" result="shape"/>
+</filter>
+<clipPath id="clip0_1_522">
+<rect width="34" height="26" fill="white" transform="translate(217 199.666)"/>
+</clipPath>
+</defs>
+</svg>
